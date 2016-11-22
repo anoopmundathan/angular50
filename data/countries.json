@@ -1,0 +1,47 @@
+[
+  {
+    "name": "India",
+    "population": 100321123123,
+    "flag": "https://en.wikipedia.org/wiki/India#/media/File:Flag_of_India.svg",
+    "amount": 1235
+  },
+  {"name": "Nepal",
+    "population": 24535345,
+    "flag": "https://en.wikipedia.org/wiki/Flag_of_Nepal",
+      "amount": 323
+  },
+  {
+    "name": "UK",
+    "population": 8765432522,
+    "flag": "https://en.wikipedia.org/wiki/United_Kingdom#/media/File:Flag_of_the_United_Kingdom.svg",
+      "amount": 423
+  },
+  {"name": "US",
+    "population": 34233243224,
+    "flag": "https://en.wikipedia.org/wiki/United_States#/media/File:Flag_of_the_United_States.svg",
+    "amount": 342
+  },
+  {
+    "name": "HK",
+    "population": 233324324,
+    "flag": "https://en.wikipedia.org/wiki/Hong_Kong#/media/File:Flag_of_Hong_Kong.svg",
+    "amount": 123
+  },
+  {
+    "name": "France",
+    "population": 5654634,
+    "flag": "https://en.wikipedia.org/wiki/France#/media/File:Flag_of_France.svg",
+    "amount": 566
+  },
+  {"name": "Scotland",
+    "population": 434543,
+    "flag": "https://en.wikipedia.org/wiki/Scotland#/media/File:Flag_of_Scotland.svg",
+    "amount": 123
+  },
+  {
+    "name": "Ireland",
+    "population": 6343252,
+    "flag": "https://en.wikipedia.org/wiki/Republic_of_Ireland#/media/File:Flag_of_Ireland.svg",
+    "amount": 653
+  }
+]
